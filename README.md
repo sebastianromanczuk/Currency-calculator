@@ -12,6 +12,4 @@
 
 - CSS
 
-- BEM 
-
 - Javascript
