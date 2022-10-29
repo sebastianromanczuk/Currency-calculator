@@ -9,4 +9,4 @@ formElement.addEventListener("submit", (event) => {
     let currency = currencyElement.value;
     let result = (amount / currency);
     resultElement.innerText = result.toFixed(2);
-});
+}); 
