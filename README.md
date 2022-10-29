@@ -1,5 +1,5 @@
-Sebastian Romańczuk
+#Sebastian Romańczuk
 
-Currency-calculator
+##Currency-calculator
 
 Link do Strony :) : https://sebastianromanczuk.github.io/Currency-calculator/.
