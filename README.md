@@ -2,7 +2,7 @@
 
 ☆☆ ##Currency-calculator
 
-- ##Moja Fotka (https://i.postimg.cc/QMyBCyVX/82318490-1646274338875226-4300544069744687511-n.jpg)
+- Moja Fotka (https://i.postimg.cc/QMyBCyVX/82318490-1646274338875226-4300544069744687511-n.jpg)
 
 
 
