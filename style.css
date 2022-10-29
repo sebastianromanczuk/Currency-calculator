@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after ::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #414141;
+    margin: 10 auto;
+    letter-spacing: 4px;
+    font-style: italic;
+  background-image: url(../Homepack/ZDJ/cat-ga7b7d1702_640.jpg);
+}
+
+.form_ConverterButton {
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto 5cm;
+    background-color: rgba(89, 107, 96, 0.947);
+}
+
+.form_ConverterButton:hover {
+    background-color: rgba(85, 92, 88, 0.647);
+}
+
+.F_C_F {
+    max-width: 600px;
+    margin: 10 auto;
+    border: 10px solid rgba(223, 45, 45, 0.947);
+    background-color: gainsboro;
+}
+
+.F_L {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto 5cm;
+    padding: 10px;
+    background-color: rgba(223, 45, 45, 0.947);
+}
