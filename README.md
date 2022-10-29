@@ -12,6 +12,6 @@
 
 - CSS
 
-- BEM convention
+- BEM 
 
 - Javascript
