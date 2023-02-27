@@ -15,4 +15,4 @@
 ### Jobs Kantor - Currency-calculator :)
 ![Sebastian](https://i.postimg.cc/jq3LX5bM/Strona.png)
 
-SEE YOU LETER!
+# SEE YOU LETER!
