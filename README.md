@@ -2,6 +2,8 @@
 
 ## Currency-calculator
 
+# Hello, enter the given amount in the table and it will convert the amount given on the currency calculator, please select the amount Swiss francs, euro is not in React HTML, CSS, JAVASCRIPT functions were used.
+
 ### Technologies used:
 
 - HTML
